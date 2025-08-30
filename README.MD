@@ -31,7 +31,7 @@
 2. В Google Sheets:
 
     * Откройте **Extensions → Apps Script**
-    * Удалите содержимое и вставьте код из [`Code.js`](Code.js)
+    * Удалите содержимое и вставьте код из [`gpt-apps-script.gs`](gpt-apps-script.gs)
     * Вставьте свой API-ключ вместо `ВАШ_API_KEY`
     * Сохраните проект
 
