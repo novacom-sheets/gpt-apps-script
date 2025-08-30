@@ -88,5 +88,5 @@
 ## 📜 Лицензия
 
 MIT License.
-© 2025 [Novacom](https://novacom.ru) — Информационные технологии.
+© 2025 [Novacom](https://novacom.ru) — Информационные технологии, AI решения.
 
